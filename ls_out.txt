@@ -1,0 +1,9 @@
+total 11K
+-rw-------+ 1 hl7 ugrad    1 Jan 17 10:26 #ls_com.txt#
+drwx------+ 3 hl7 ugrad    4 Jan 17 09:36 haoliu7
+drwx------+ 2 hl7 ugrad    4 Jan 17 10:36 haoliu7_submit.tar
+-rwx------+ 1 hl7 ugrad 8.4K Jan 17 10:12 hello
+-rw-------+ 1 hl7 ugrad   77 Jan 17 10:12 hello.c
+-rw-------+ 1 hl7 ugrad   76 Jan 17 10:11 hello.c~
+-rw-------+ 1 hl7 ugrad    9 Jan 17 10:32 ls_com.txt
+-rw-------+ 1 hl7 ugrad    0 Jan 17 10:38 ls_out.txt
